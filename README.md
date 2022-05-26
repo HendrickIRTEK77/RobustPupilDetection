@@ -46,4 +46,12 @@ Result :
 •	Real time by using camera: 
 •	detectnet –model=models/eye/ssd-mobilenet.onnx –labels=models/eye/labels.txt –input-blob=input_0 –output-cvg=scores –output-bbox=boxes /dev/video0
 
+the video of this pupil models 
+https://drive.google.com/file/d/11R5GL4-o3RMGC_Ty0u8bgQntCHPVvDhF/view?usp=sharing
+![image](https://user-images.githubusercontent.com/106336723/170565953-9a3a7619-cfb4-4ef2-ac75-647f481771c8.png)
+![image](https://user-images.githubusercontent.com/106336723/170566007-1c535dfe-a6eb-45ed-8208-003602c70494.png)
+![image](https://user-images.githubusercontent.com/106336723/170566109-ed4526e9-3f19-446d-beb7-308eb3094ef7.png)
+
+
+
 
